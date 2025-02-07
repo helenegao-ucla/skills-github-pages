@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my Portfolio
 ---
 
+I am a student at UCLA. This is my portfolio
